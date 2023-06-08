@@ -1,5 +1,7 @@
 ![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)
-
+<h1 align="center">Hi 👋, I'm Prajwal</h1>
+<h3 align="center">🖥️Unleash the Code Titan within! ⚔️🌟 Frontend Warrior 🎨 from 🇮🇳 India<h3> 
+  
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 # 💫 About Me:
 🔭 Hi, I am currently working on web-development Projects<br>🌱 I am looking to collaborate on anything that is new any tech and align my interests<br>👯 I am looking for a help with a learning new frame works and technologies <br>🤔 I am currently learning new technologies that are catching my interests<br>💬 Ask me about web-development or my projects, new techs<br>⚡ Fun fact:- I love anime and I love frictional and fantasy world. 
